@@ -1,0 +1,24 @@
+[
+    {
+        "year": "1",
+        "semester": "first",
+        "course-title": "Fundamental Mathematics",
+        "course-code": "FEG 111",
+        "credit-load": 3
+    },
+    {
+        "year": "1",
+        "semester": "second",
+        "course-title": "Use of Engilish",
+        "course-code": "GST 111",
+        "credit-load": 2
+    },
+    {
+        "year": "2",
+        "semester": "second",
+        "course-title": "Thermodynamics",
+        "course-code": "Chem 226",
+        "credit-load": 3
+    }
+
+]

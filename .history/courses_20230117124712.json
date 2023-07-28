@@ -1,0 +1,45 @@
+[
+    {
+        "year": "3",
+        "semester": "second",
+        "courseTitle": "Software Development II",
+        "courseCode": "CEE 322",
+        "creditLoad": 3
+    },
+    {
+        "year": "3",
+        "semester": "second",
+        "courseTitle": "Digital Circuit II",
+        "courseCode": "CEE 312",
+        "creditLoad": 2
+    },
+    {
+        "year": "3",
+        "semester": "second",
+        "courseTitle": "Frequency Modulation",
+        "courseCode": "EEE 312",
+        "creditLoad": 3
+    },
+    {
+        "year": "3",
+        "semester": "second",
+        "courseTitle": "Instrumentation I",
+        "courseCode": "CEE 342",
+        "creditLoad": 2
+    },
+    {
+        "year": "3",
+        "semester": "second",
+        "courseTitle": "Programming Practical 2",
+        "courseCode": "CEE 332",
+        "creditLoad": 3 
+    }
+   
+]
+
+
+
+
+
+
+ 

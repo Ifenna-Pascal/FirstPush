@@ -1,0 +1,38 @@
+[
+    {
+        "firstname": "Ebube",
+        "lastname": "amaechi",
+        "regNumber": "20171860830177",
+        "academic_session": "2019/2020"
+    },
+    {
+        "firstname": "kelvin",
+        "lastname": "Dickson",
+        "regNumber": "20171860830133",
+        "academic_session": "2019/2020"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Esien",
+        "regNumber": "20171860830165",
+        "academic_session": "2019/2020"
+    },
+    {
+        "firstname": "king",
+        "lastname": "charles",
+        "regNumber": "20171860830222",
+        "academic_session": "2019/2020"
+    },
+    {
+        "firstname": "Eze",
+        "lastname": "confidence",
+        "regNumber": "20171860830854",
+        "academic_session": "2019/2020"
+    },
+    {
+        "firstname": "Tonsin",
+        "lastname": "Bayo",
+        "regNumber": "20171860830822",
+        "academic_session": "2019/2020"
+    }
+]

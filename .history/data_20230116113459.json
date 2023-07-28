@@ -1,0 +1,31 @@
+[
+    {
+        "year": "1",
+        "semester": "first",
+        "courseTitle": "Programing Basics",
+        "courseCode": "CEE 112",
+        "creditLoad": 3
+    },
+    {
+        "year": "1",
+        "semester": "first",
+        "courseTitle": "Engineernig Drawing",
+        "courseCode": "MECH 111",
+        "creditLoad": 3
+    },
+    {
+        "year": "1",
+        "semester": "second",
+        "courseTitle": "Use of Engilish",
+        "courseCode": "GST 111",
+        "creditLoad": 2
+    },
+    {
+        "year": "2",
+        "semester": "second",
+        "courseTitle": "Thermodynamics",
+        "courseCode": "Chem 226",
+        "creditLoad": 3
+    }
+
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "year": "1",
+        "semester": "first",
+        "courseTitle": "Use of English",
+        "courseCode": "GST 111",
+        "creditLoad": 2
+    },
+    {
+        "year": "1",
+        "semester": "first",
+        "courseTitle": "Introduction to physics",
+        "courseCode": "PHY 111",
+        "creditLoad": 3
+    },
+    {
+        "year": "1",
+        "semester": "second",
+        "courseTitle": "Advanced Chemistry",
+        "courseCode": "ICH 112",
+        "creditLoad": 3
+    },
+    {
+        "year": "1",
+        "semester": "second",
+        "courseTitle": "Light and Motion",
+        "courseCode": "PHY 112",
+        "creditLoad": 3
+    },
+    {
+        "year": "1",
+        "semester": "second",
+        "courseTitle": "Computer Practical",
+        "courseCode": "CEE 112",
+        "creditLoad": 1
+    },
+    {
+        "year": "2",
+        "semester": "second",
+        "courseTitle": "Strength of Materials",
+        "courseCode": "CVE 228",
+        "creditLoad": 3
+    },
+    {
+        "year": "2",
+        "semester": "second",
+        "courseTitle": "Electricity Applications",
+        "courseCode": "EEE 222",
+        "creditLoad": 3
+    },
+    {
+        "year": "2",
+        "semester": "second",
+        "courseTitle": "MatLab Programming",
+        "courseCode": "CEE 222",
+        "creditLoad": 3
+    },
+    {
+        "year": "2",
+        "semester": "first",
+        "courseTitle": "Introduction to Electricity",
+        "courseCode": "EEE 221",
+        "creditLoad": 3
+    },
+    {
+        "year": "2",
+        "semester": "first",
+        "courseTitle": "Dynamics & Motion",
+        "courseCode": "CVE 227",
+        "creditLoad": 3
+    },
+    {
+        "year": "2",
+        "semester": "first",
+        "courseTitle": "Differential Calculus",
+        "courseCode": "FEG 227",
+        "creditLoad": 3
+    },
+    {
+        "year": "2",
+        "semester": "first",
+        "courseTitle": "Computer Practicals II",
+        "courseCode": "CEE 221",
+        "creditLoad": 1
+    },
+    {
+        "year": "2",
+        "semester": "first",
+        "courseTitle": "Engineering Drawing II",
+        "courseCode": "MECH 221",
+        "creditLoad": 2
+    }
+]
+
+
+
+
+
+
+ 

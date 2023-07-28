@@ -1,0 +1,1 @@
+const prodcuts = [{id:1, name: 'a'}, {id:2, name: "B"}, {id:3, name: 'C'}]

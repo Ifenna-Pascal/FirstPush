@@ -1,0 +1,45 @@
+[
+    {
+        "year": "4",
+        "semester": "first",
+        "courseTitle": "Computer Networking",
+        "courseCode": "CEE 411",
+        "creditLoad": 3
+    },
+    {
+        "year": "4",
+        "semester": "first",
+        "courseTitle": "Assembly Language",
+        "courseCode": "CEE 421",
+        "creditLoad": 3
+    },
+    {
+        "year": "4",
+        "semester": "first",
+        "courseTitle": "Instrumentation II",
+        "courseCode": "CEE 432",
+        "creditLoad": 2
+    },
+    {
+        "year": "4",
+        "semester": "first",
+        "courseTitle": "Micro-Processors",
+        "courseCode": "CEE 442",
+        "creditLoad": 3
+    },
+    {
+        "year": "4",
+        "semester": "first",
+        "courseTitle": "Control System",
+        "courseCode": "CEE 452",
+        "creditLoad": 3 
+    }
+   
+]
+
+
+
+
+
+
+ 

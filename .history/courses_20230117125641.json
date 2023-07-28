@@ -1,0 +1,31 @@
+[
+    {
+        "year": "5",
+        "semester": "first",
+        "courseTitle": "Cyber Security",
+        "courseCode": "CEE 511",
+        "creditLoad": 3
+    },
+    {
+        "year": "5",
+        "semester": "first",
+        "courseTitle": "Cyberpreneurship",
+        "courseCode": "CEE 521",
+        "creditLoad": 3
+    },
+    {
+        "year": "5",
+        "semester": "first",
+        "courseTitle": "Computer Aided Design",
+        "courseCode": "CEE 531",
+        "creditLoad": 2
+    }
+   
+]
+
+
+
+
+
+
+ 

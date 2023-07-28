@@ -1,0 +1,38 @@
+[
+    {
+        "year": "5",
+        "semester": "second",
+        "courseTitle": "Cyber Security II",
+        "courseCode": "CEE 512",
+        "creditLoad": 3
+    },
+    {
+        "year": "5",
+        "semester": "second",
+        "courseTitle": "Computer Animation",
+        "courseCode": "CEE 522",
+        "creditLoad": 3
+    },
+    {
+        "year": "5",
+        "semester": "second",
+        "courseTitle": "Reliablity Engineering",
+        "courseCode": "CEE 532",
+        "creditLoad": 3
+    },
+    {
+        "year": "5",
+        "semester": "second",
+        "courseTitle": "Project Defense",
+        "courseCode": "CEE 542",
+        "creditLoad": 6
+    }
+   
+]
+
+
+
+
+
+
+ 

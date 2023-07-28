@@ -1,0 +1,32 @@
+[
+    {
+        "firstname": "Monanu",
+        "lastname": "Ifenna",
+        "regNumber": "20171860830362",
+        "academic_session": "2017/2018"
+    },
+    {
+        "firstname": "Aruogu",
+        "lastname": "Ebube",
+        "regNumber": "20171860830888",
+        "academic_session": "2017/2018"
+    },
+    {
+        "firstname": "Onuoha",
+        "lastname": "Stephainie",
+        "regNumber": "20171860830888",
+        "academic_session": "2017/2018"
+    },
+    {
+        "firstname": "Victor",
+        "lastname": "Onoh",
+        "regNumber": "20171860830329",
+        "academic_session": "2017/2018"
+    },
+    {
+        "firstname": "Eze",
+        "lastname": "Kelvin",
+        "regNumber": "20171860830921",
+        "academic_session": "2017/2018"
+    }
+]

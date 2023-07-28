@@ -1,0 +1,45 @@
+[
+    {
+        "year": "3",
+        "semester": "first",
+        "courseTitle": "SIWES",
+        "courseCode": "GST 311",
+        "creditLoad": 2
+    },
+    {
+        "year": "3",
+        "semester": "first",
+        "courseTitle": "Electromagnetic Field",
+        "courseCode": "EE 311",
+        "creditLoad": 2
+    },
+    {
+        "year": "3",
+        "semester": "first",
+        "courseTitle": "Circuit Theory",
+        "courseCode": "EEE 321",
+        "creditLoad": 3
+    },
+    {
+        "year": "3",
+        "semester": "first",
+        "courseTitle": "Digital Circuit I",
+        "courseCode": "CEE 311",
+        "creditLoad": 3
+    },
+    {
+        "year": "3",
+        "semester": "first",
+        "courseTitle": "Software Development I",
+        "courseCode": "CEE 341",
+        "creditLoad": 3
+    }
+   
+]
+
+
+
+
+
+
+ 

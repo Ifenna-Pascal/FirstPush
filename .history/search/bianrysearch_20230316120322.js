@@ -1,0 +1,74 @@
+function binarySearch(array, num, start, end) {
+  if (start > end) return false;
+  const mid = Math.floor((start + end) / 2);
+  if (array[mid] === num) {
+    return mid;
+  }
+  if (array[mid] > num) {
+    return binarySearch(array, num, start, mid - 1);
+  } else {
+    return binarySearch(array, num, mid + 1, end);
+  }
+}
+
+// console.log(binarySearch(arr, 9, 0, arr.length - 1));
+
+function largestThreeElements(array) {
+  array.sort((a, b) => a - b);
+  array.reverse();
+  return [array[0], array[1], array[2]];
+}
+const arr = [1, 2, 3, 4, 6];
+
+// console.log(largestThreeElements(arr));
+
+// const missingNUmber = (array) => {
+//   const mapping = {};
+//   for (let i = 1; i <= array.length; i++) {
+//     mapping[array[i]] = 0;
+//   }
+//   for (let i = 1; i <= array.length; i++) {
+
+//   }
+//   console.log(mapping);
+// };
+
+// const mapping = {
+//   1: 1,
+//   2: 2,
+//   3: 3,
+//   4: 4,
+//   5: null,
+//   6: 6,
+// };
+
+// console.log(missingNUmber(arr));
+// [1, 2, 3, 4, 6];
+
+// Javascript code to implement the approach
+
+// Function to find the missing number
+function findMissing(arr, N) {
+  let i;
+  let temp = [];
+  for (i = 0; i <= N; i++) {
+    temp[i] = 0;
+  }
+
+  for (i = 0; i < N; i++) {
+    temp[arr[i] - 1] = 1;
+  }
+
+  let ans = 0;
+  for (i = 0; i <= N; i++) {
+    if (temp[i] == 0) ans = i + 1;
+  }
+  console.log(ans);
+}
+
+// Driver code
+let arr = [1, 3, 7, 5, 6, 2];
+let n = arr.length;
+
+// Function call
+findMissing(arr, n);
