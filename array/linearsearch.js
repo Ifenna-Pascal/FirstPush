@@ -32,6 +32,11 @@ const swap = (start, end) => {
   return [start, end];
 };
 
+function myName () {
+  return 'Ifrnna'
+}
+
+
 console.log(swap(2, 4));
 console.log(reverseArray([1, 3, 4]));
 console.log(Array.from({ name: "if", age: 0 }));
